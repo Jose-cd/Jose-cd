@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José</h1>
 <h3 align="center">A passionate javascript developer</h3>
 
-- 🔭 I’m currently working on [Chat App using micro services architecture](https://github.com/Jose-cd/Chat-app)
+- 🔭 I’m currently working on Backcountry
 
 - 🌱 I’m currently learning **Nextjs, GraphQL**
 
