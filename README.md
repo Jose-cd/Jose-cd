@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José</h1>
 <h3 align="center">A passionate javascript developer</h3>
 
-- 🔭 I’m currently working on Backcountry
+- 🔭 I’m currently working on 8Base
 
 - 🌱 I’m currently learning **Nextjs, GraphQL**
 
