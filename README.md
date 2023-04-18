@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on 8Base
 
-- 🌱 I’m currently learning **Nextjs, GraphQL**
+- 🌱 I’m currently learning **Elixir**
 
 - 📫 How to reach me **josesaygg@gmail.com**
 
