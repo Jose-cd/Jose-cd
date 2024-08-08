@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on 8base
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **AI with python**
 
 - 📫 How to reach me **josesaygg@gmail.com**
 
