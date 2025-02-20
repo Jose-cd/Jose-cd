@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm José</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working in 8base
+- 🔭 I’m currently working on a CRM App.
 
-- 🌱 I’m currently learning **AI with python**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **josesaygg@gmail.com**
 
